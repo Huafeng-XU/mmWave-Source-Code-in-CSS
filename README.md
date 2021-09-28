@@ -8,5 +8,4 @@
 
 
 ## xwr18xx_intf_demo_mss
- *  It allows user to specify the chirping profile and displays the detected
- *  objects and other information in real-time 
+ *  It allows user to specify the chirping profile and displays the detected objects and other information in real-time 
